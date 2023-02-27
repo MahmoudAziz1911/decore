@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/components/*": ["components/*"],
+        "@/page-components/*": ["page-components/*"],
+        "@/pages/*": ["pages/*"],
+        "@/controllers/*": ["controllers/*"],
+        "@/api-lib/*": ["api-lib/*"],
+        "@/models/*": ["models/*"],
+        "@/utils/*": ["utils/*"],
+        "@/store/*": ["store/*"],
+        "@/assets/*": ["assets/*"],
+        "@/styles/*": ["styles/*"],
+      }
+    }
+  }
+  
