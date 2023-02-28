@@ -7,12 +7,12 @@ const ProfilePage = () => {
     return (
     <>
     <h1>user</h1>
-    <Typography>
+    {/* <Typography>
         {session.user.name}
       </Typography>
       <Typography>
         <Avatar src={session.user.image} alt="" />
-      </Typography>
+      </Typography> */}
     </>
   )
 }
